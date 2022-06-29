@@ -1,16 +1,14 @@
-# covid
+# Covid-info
 
 Сourse project :)
 
-## Getting Started
+## INFO
 
-This project is a course project in my college
+This project is a course project in my college.
+(my first experience with flutter)
 
-A few resources to get you started if this is your first Flutter project:
+The software should help the user in monitoring their health, informing them about the coronavirus and its symptoms.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- The application is implemented using the Flutter cross-platform development framework in the Dart programming language.
+- The cloud-based Nosql database Firebase Firestore is used as the database of the software product.
+- The Firebase Authentication service is responsible for authenticating users in the application.
